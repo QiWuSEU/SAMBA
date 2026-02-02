@@ -1,6 +1,6 @@
 ## Overview
 
-This is an optimization algorithm for the miniaturized patch antenna area with constraints, implemented by calling the CST interface. The algorithm is also applicable to other miniaturization problems; however, modifications are required for the calculation of cheap objectives such as area and the setup of constraints. For cheap objectives, they are typically defined as those whose values can be determined through analytical formulas.
+SAMBA is an optimization algorithm for the miniaturized patch antenna area with constraints, implemented by calling the CST interface. The algorithm is also applicable to other miniaturization problems; however, modifications are required for the calculation of cheap objectives such as area and the setup of constraints. For cheap objectives, they are typically defined as those whose values can be determined through analytical formulas.
 
 ## Optimization Framework and Utilities
 
